@@ -1,0 +1,29 @@
+# clion
+.idea/
+
+# cmake
+cmake-build-debug/
+cmake-build-release/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+
+# binaries
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.log
+
+# os
+*~
+*.swp
+.DS_Store
+Thumbs.db
