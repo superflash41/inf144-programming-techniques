@@ -8,11 +8,11 @@ En este caso, el proyecto se llama `EntradaYSalidaDeDatosLab01-2024-1`.
 
 Una vez el código esté completo, se debe **compilar** el proyecto. En CLion esto se puede hacer con el martillo:
 
-![compile.png](compile.png)
+![compile.png](imgs/compile.png)
 
 Si el proyecto no tiene errores de compilación se mostrará el mensaje *Build finished*:
 
-![build.png](build.png)
+![build.png](imgs/build.png)
 
 Como se vio en clase y en el laboratorio dirigido, en la carpeta `cmake-build-debug` se generará el ejecutable (`.exe` si está en Windows).
 
