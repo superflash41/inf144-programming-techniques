@@ -1,4 +1,4 @@
-# Programming techniques (INF144)
+# Programming Techniques (INF144)
 
 Labs from the Programming Techniques course at PUCP (2024-1 and 2025-2).
 <br>
