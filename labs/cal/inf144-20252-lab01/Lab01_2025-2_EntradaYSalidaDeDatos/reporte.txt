@@ -1,0 +1,388 @@
+                              PLATAFORMA TP_Twitch
+                           REGISTRO DE LOS CANALES AFILIADOS
+                FECHAS DE CREACION ENTRE EL 09/09/2022 Y EL 01/01/2023
+==========================================================================================
+CANAL No. 1
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    FEXTRALIFE          F3765     15/10/2022    508816    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        16/07/2025              00:25:55                      1396
+        30/07/2025              01:15:20                      5680
+        31/07/2025              01:40:07                      9467
+        02/09/2025              01:20:26                     13120
+        16/08/2025              01:20:20                     15187
+        20/08/2025              00:42:16                      6720
+        19/07/2025              00:17:47                      4804
+        30/08/2025              02:17:31                     14793
+        16/07/2025              00:40:53                      2142
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   10:00:35
+        ULTIMA PUBLICACION:                     02/09/2025
+        TOTAL DE REPRODUCCIONES:                73309     
+        INGRESOS POR PUBLICIDAD:                $ 238.00    
+==========================================================================================
+CANAL No. 2
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    SYMFUHNY            S1679     21/12/2022    2355063   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        26/07/2025              00:58:39                      8130
+        21/07/2025              00:47:48                       744
+        12/08/2025              01:50:59                     10549
+        11/08/2025              00:37:09                      8092
+        26/07/2025              01:18:31                     15432
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   5:33:06
+        ULTIMA PUBLICACION:                     12/08/2025
+        TOTAL DE REPRODUCCIONES:                42947     
+        INGRESOS POR PUBLICIDAD:                $ 139.00    
+==========================================================================================
+CANAL No. 3
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    BAIANO              B8913     11/09/2022    425797    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        24/07/2025              02:00:52                      5538
+        01/08/2025              02:10:24                      7623
+        15/07/2025              01:08:43                     15998
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   5:19:59
+        ULTIMA PUBLICACION:                     01/08/2025
+        TOTAL DE REPRODUCCIONES:                29159     
+        INGRESOS POR PUBLICIDAD:                $ 94.00     
+==========================================================================================
+CANAL No. 4
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    MOONMOON            M7091     09/12/2022    923448    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        15/08/2025              01:10:49                       875
+        25/07/2025              00:41:31                     13464
+        20/07/2025              00:08:12                       963
+        14/08/2025              00:38:39                      9013
+        20/08/2025              00:18:46                     17991
+        03/08/2025              01:47:43                     17119
+        18/07/2025              00:48:29                     16199
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   5:34:09
+        ULTIMA PUBLICACION:                     20/08/2025
+        TOTAL DE REPRODUCCIONES:                75624     
+        INGRESOS POR PUBLICIDAD:                $ 245.00    
+==========================================================================================
+CANAL No. 5
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    SOLARYFORTNITE      S7937     28/11/2022    1478270   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        14/08/2025              01:43:48                     17313
+        31/08/2025              02:25:54                     12615
+        19/07/2025              01:28:42                      2017
+        14/08/2025              01:45:46                      3863
+        07/08/2025              02:04:26                     11491
+        07/08/2025              02:27:26                      1149
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   11:56:02
+        ULTIMA PUBLICACION:                     31/08/2025
+        TOTAL DE REPRODUCCIONES:                48448     
+        INGRESOS POR PUBLICIDAD:                $ 157.00    
+==========================================================================================
+CANAL No. 6
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    SHROUD              S1244     16/12/2022    7744066   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        20/07/2025              01:15:41                     16160
+        07/08/2025              01:39:15                     15150
+        22/07/2025              00:13:03                      4234
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   3:07:59
+        ULTIMA PUBLICACION:                     07/08/2025
+        TOTAL DE REPRODUCCIONES:                35544     
+        INGRESOS POR PUBLICIDAD:                $ 115.00    
+==========================================================================================
+CANAL No. 7
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    SCARRA              S2424     22/12/2022    1242014   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        05/08/2025              02:07:03                     16568
+        29/07/2025              01:10:51                     19113
+        24/07/2025              01:48:00                      9280
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   5:05:54
+        ULTIMA PUBLICACION:                     05/08/2025
+        TOTAL DE REPRODUCCIONES:                44961     
+        INGRESOS POR PUBLICIDAD:                $ 146.00    
+==========================================================================================
+CANAL No. 8
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    RAKIN               R2194     05/11/2022    1258173   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        21/08/2025              00:46:32                     10415
+        24/08/2025              00:58:37                      5705
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   1:45:09
+        ULTIMA PUBLICACION:                     24/08/2025
+        TOTAL DE REPRODUCCIONES:                16120     
+        INGRESOS POR PUBLICIDAD:                $ 52.00     
+==========================================================================================
+CANAL No. 9
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    SQUEEZIE            S6938     01/11/2022    2149306   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        30/08/2025              01:55:26                      3722
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   1:55:26
+        ULTIMA PUBLICACION:                     30/08/2025
+        TOTAL DE REPRODUCCIONES:                3722      
+        INGRESOS POR PUBLICIDAD:                $ 12.00     
+==========================================================================================
+CANAL No. 10
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    LCK                 L7829     17/12/2022    934688    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        15/07/2025              00:53:48                      1412
+        02/09/2025              00:51:42                     15036
+        16/07/2025              00:01:24                     14354
+        19/08/2025              01:10:28                      7756
+        23/08/2025              00:42:31                     12495
+        13/08/2025              01:18:08                      8659
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   4:58:01
+        ULTIMA PUBLICACION:                     02/09/2025
+        TOTAL DE REPRODUCCIONES:                59712     
+        INGRESOS POR PUBLICIDAD:                $ 194.00    
+==========================================================================================
+CANAL No. 11
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    DASMEHDI            D9459     12/10/2022    299048    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        31/08/2025              01:26:23                      8287
+        01/09/2025              01:19:32                     10334
+        22/07/2025              00:03:10                     16052
+        28/08/2025              00:16:53                     13256
+        05/08/2025              01:52:16                      9273
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   4:58:14
+        ULTIMA PUBLICACION:                     01/09/2025
+        TOTAL DE REPRODUCCIONES:                57202     
+        INGRESOS POR PUBLICIDAD:                $ 185.00    
+==========================================================================================
+CANAL No. 12
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    TFBLADE             T5633     27/10/2022    1008040   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        16/07/2025              00:45:48                     17973
+        30/08/2025              01:09:12                      3031
+        15/07/2025              01:44:44                     15753
+        19/07/2025              02:12:54                     17535
+        20/08/2025              02:12:05                      2511
+        18/08/2025              00:35:02                     15570
+        03/09/2025              01:46:49                      8189
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   10:26:34
+        ULTIMA PUBLICACION:                     03/09/2025
+        TOTAL DE REPRODUCCIONES:                80562     
+        INGRESOS POR PUBLICIDAD:                $ 261.00    
+==========================================================================================
+CANAL No. 13
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    VADER               V3980     16/11/2022    424374    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        07/08/2025              00:49:31                     16543
+        18/08/2025              02:23:42                      3527
+        31/08/2025              00:42:58                     16222
+        06/08/2025              01:04:32                     13794
+        16/07/2025              00:22:03                      3339
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   5:22:46
+        ULTIMA PUBLICACION:                     31/08/2025
+        TOTAL DE REPRODUCCIONES:                53425     
+        INGRESOS POR PUBLICIDAD:                $ 173.00    
+==========================================================================================
+CANAL No. 14
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    DOTA2RUHUB          D9011     20/09/2022    777510    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        26/07/2025              00:18:33                     13780
+        18/07/2025              02:23:45                     12239
+        02/08/2025              01:54:43                     14227
+        03/09/2025              01:46:36                      7852
+        26/07/2025              00:55:12                     12643
+        16/08/2025              01:18:20                      9103
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   8:37:09
+        ULTIMA PUBLICACION:                     03/09/2025
+        TOTAL DE REPRODUCCIONES:                69844     
+        INGRESOS POR PUBLICIDAD:                $ 226.00    
+==========================================================================================
+CANAL No. 15
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    NIGHTBLUE3          N1843     17/12/2022    2641880   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        06/08/2025              01:02:19                      8046
+        21/07/2025              00:10:04                     12729
+        10/08/2025              01:34:03                     10116
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   2:46:26
+        ULTIMA PUBLICACION:                     10/08/2025
+        TOTAL DE REPRODUCCIONES:                30891     
+        INGRESOS POR PUBLICIDAD:                $ 100.00    
+==========================================================================================
+CANAL No. 16
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    THEGREFG            T3871     09/09/2022    3795667   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        10/08/2025              01:33:33                      8880
+        19/08/2025              02:11:52                     12807
+        22/08/2025              00:02:56                     14118
+        22/07/2025              00:25:51                     15093
+        04/08/2025              02:22:02                     14843
+        03/08/2025              02:11:28                     16122
+        29/08/2025              00:33:42                     18437
+        25/07/2025              01:02:43                      5015
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   10:24:07
+        ULTIMA PUBLICACION:                     29/08/2025
+        TOTAL DE REPRODUCCIONES:                105315    
+        INGRESOS POR PUBLICIDAD:                $ 342.00    
+==========================================================================================
+CANAL No. 17
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    NICKEH30            N3998     24/10/2022    1660204   
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        15/07/2025              00:30:02                      7288
+        17/08/2025              01:21:10                     14777
+        08/08/2025              00:15:31                      4452
+        15/08/2025              02:27:38                     10076
+        23/08/2025              02:26:46                     12912
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   7:01:07
+        ULTIMA PUBLICACION:                     23/08/2025
+        TOTAL DE REPRODUCCIONES:                49505     
+        INGRESOS POR PUBLICIDAD:                $ 160.00    
+==========================================================================================
+CANAL No. 18
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    ROSHTEIN            R7088     09/09/2022    381918    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        20/07/2025              01:47:45                      1024
+        19/07/2025              01:18:42                      9899
+        27/07/2025              00:13:31                      8771
+        16/08/2025              01:48:19                     18554
+        30/07/2025              01:56:26                     11810
+        29/08/2025              01:15:13                     19151
+        31/07/2025              01:45:48                      7920
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   10:05:44
+        ULTIMA PUBLICACION:                     29/08/2025
+        TOTAL DE REPRODUCCIONES:                77129     
+        INGRESOS POR PUBLICIDAD:                $ 250.00    
+==========================================================================================
+CANAL No. 19
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    DOTA2MC_RU          D3058     20/10/2022    428284    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        17/08/2025              00:53:03                      5984
+        01/09/2025              00:16:57                      6867
+        19/08/2025              02:26:27                      9737
+        19/08/2025              00:48:03                     14400
+        29/08/2025              01:12:57                     15749
+        25/08/2025              01:47:32                      1133
+        01/08/2025              01:51:52                      1391
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   9:16:51
+        ULTIMA PUBLICACION:                     01/09/2025
+        TOTAL DE REPRODUCCIONES:                55261     
+        INGRESOS POR PUBLICIDAD:                $ 179.00    
+==========================================================================================
+CANAL No. 20
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    SOLARYHS            S7446     25/10/2022    149073    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        27/07/2025              01:43:22                      2542
+        17/07/2025              01:02:47                     12258
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   2:46:09
+        ULTIMA PUBLICACION:                     27/07/2025
+        TOTAL DE REPRODUCCIONES:                14800     
+        INGRESOS POR PUBLICIDAD:                $ 48.00     
+==========================================================================================
+CANAL No. 21
+    NOMBRE              CODIGO    CREADO EL     NUMERO DE SEGUIDORES
+    HASANABI            H3911     01/01/2023    470123    
+------------------------------------------------------------------------------------------
+    ULTIMAS REPRODUCCIONES
+        FECHA DE PUBLICACION    TIEMPO DE DURACION      NUMERO DE REPRODUCCIONES
+        29/08/2025              01:41:44                      2670
+        18/08/2025              00:29:56                      5117
+        13/08/2025              00:46:12                      8804
+        08/08/2025              00:12:27                     10381
+        11/08/2025              01:46:55                     15086
+        03/08/2025              01:09:53                     10947
+------------------------------------------------------------------------------------------
+RESUMEN DEL CANAL
+        DURACION TOTAL DE LAS REPRODUCCIONES:   6:07:07
+        ULTIMA PUBLICACION:                     29/08/2025
+        TOTAL DE REPRODUCCIONES:                53005     
+        INGRESOS POR PUBLICIDAD:                $ 172.00    
+==========================================================================================
+RESUMEN FINAL
+CANTIDAD TOTAL DE STREAMS COLOCADOS POR LOS CANALES:        106       
+DURACION TOTAL DE STREAMS PUBLICADOS:                       133:08:34
+INGRESOS TOTALES POR PUBLICIDAD:                            $    3488.00
+CANAL CON MAYORES INGRESOS POR PUBLICIDAD:        T3871 CON $     342.00
