@@ -7,7 +7,6 @@ using namespace std;
 
 #define SZ_CATEGORIAS 200
 #define SZ_STREAMS 500
-#define NOT_FOUND -1
 
 // fn es filename
 // dir es la carpeta donde deben ir los reportes
