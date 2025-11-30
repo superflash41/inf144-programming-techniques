@@ -66,25 +66,25 @@ void emitirReporte(const char* fn,  Nodo* p) {
     arch<<setw(30)<<"REPORTE DE PRUEBA DE CATEGORIAS"<<endl;
     for (; p; p=p->siguiente) {
         imprimirLinea(arch, '=');
-        arch<<left<<setw(20)<<"Codigo:"<<p->categoria.codigo<<endl;
-        arch<<setw(20)<<"Nombre:"<<p->categoria.nombre<<endl;
-        arch<<setw(20)<<"Descripcion:"<<p->categoria.descripcion<<endl;
-        imprimirLinea(arch, '-');
+        arch<<left<<setw(30)<<"Codigo:"<<p->categoria.codigo<<endl;
+        arch<<setw(30)<<"Nombre:"<<p->categoria.nombre<<endl;
+        arch<<setw(30)<<"Descripcion:"<<p->categoria.descripcion<<endl;
         if (!p->categoria.cantidadDeReproducciones) continue;
+        imprimirLinea(arch, '-');
         arch<<"INFORMACION DE LAS REPRODUCCIONES:"<<endl;
         arch<<"DURACION MAXIMA:"<<endl;
-        arch<<setw(20)<<"NOMBRE DEL CANAL:"<<p->categoria.canalConDuracionMaxima<<endl;
-        arch<<setw(20)<<"DURACION:"<<setfill('0')<<right<<
+        arch<<setw(30)<<"NOMBRE DEL CANAL:"<<p->categoria.canalConDuracionMaxima<<endl;
+        arch<<setw(30)<<"DURACION:"<<setfill('0')<<right<<
             setw(2)<<p->categoria.duracionMaxima/3600<<":"<<
             setw(2)<<(p->categoria.duracionMaxima%3600)/60<<":"<<
             setw(2)<<p->categoria.duracionMaxima%60<<setfill(' ')<<left<<endl;
         imprimirLinea(arch, '-');
-        arch<<"LISTA DE DROP OFF: ";
+        arch<<setw(30)<<"LISTA DE DROP OFF: ";
         for (int i=0; i<p->categoria.cantidadDeReproducciones; i++)
             arch<<setw(6)<<p->categoria.arrDropOff[i];
         arch<<endl;
-        arch<<setw(20)<<"PROMEDIO DE DROP-OFF:"<<p->categoria.promedioDropOff<<endl;
-        arch<<setw(20)<<"TIEMPO DE DURACION TOTAL:"<<setfill('0')<<right<<
+        arch<<setw(30)<<"PROMEDIO DE DROP-OFF:"<<p->categoria.promedioDropOff<<endl;
+        arch<<setw(30)<<"TIEMPO DE DURACION TOTAL:"<<setfill('0')<<right<<
             setw(2)<<p->categoria.duracionTotal/3600<<":"<<
             setw(2)<<(p->categoria.duracionTotal%3600)/60<<":"<<
             setw(2)<<p->categoria.duracionTotal%60<<setfill(' ')<<left<<endl;
@@ -116,7 +116,8 @@ void leerStreams(const char* fn, Nodo* sll) {
                 p->categoria.canalConDuracionMaxima = new char[strlen(s)+1]{};
                 strcpy(p->categoria.canalConDuracionMaxima, s);
             }
-        } else while (arch.get()!='\n');
+        }
+        while (arch.get()!='\n');
     }
 }
 
