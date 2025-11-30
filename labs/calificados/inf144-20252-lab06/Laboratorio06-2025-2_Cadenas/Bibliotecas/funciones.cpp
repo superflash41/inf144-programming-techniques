@@ -71,7 +71,7 @@ void emitirReportePruebaCategorias(const char* fn, char** arrCodCategoria, char*
     if (not arch.is_open()) openError(fn);
     arch<<setw(30)<<"REPORTE DE PRUEBA DE CATEGORIAS"<<endl;
     arch<<"CODIGO"<<setw(20)<<"NOMBRE"<<endl;
-    for (int i=0; i<nc; i++) arch<<left<<setw(20)<<arrCodCategoria[i]<<setw(50)<<arrNombreCategoria[i];
+    for (int i=0; i<nc; i++) arch<<left<<setw(20)<<arrCodCategoria[i]<<setw(50)<<arrNombreCategoria[i]<<endl;
 }
 
 void leerStreams(const char* fn, int* arrFecha, char** arrNombreCanal, char** arrCodCateStream, double* arrRating,
