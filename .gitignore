@@ -1,13 +1,16 @@
+# nix
+.direnv/
+.clangd
+
 # clion
 .idea/
 
 # cmake
-cmake-build-debug/
-cmake-build-release/
+cmake-build-*/
 CMakeCache.txt
 CMakeFiles/
 Makefile
-*.cmake
+cmake_install.cmake
 
 # binaries
 *.o
