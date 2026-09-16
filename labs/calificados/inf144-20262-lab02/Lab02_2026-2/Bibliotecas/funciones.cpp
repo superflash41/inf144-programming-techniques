@@ -5,7 +5,6 @@
 #include <fstream>
 #include <iostream>
 #include <iomanip>
-#include <cstring>
 using namespace std;
 #include "funciones.h"
 
